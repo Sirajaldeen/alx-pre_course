@@ -1,2 +1,2 @@
 #!/bin/bash
-eacho "ALX"
+echo "ALX School is so cool!"
